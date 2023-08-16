@@ -1,6 +1,9 @@
 # Tensorflow.js 모델 활용
 
-## Getting Started with Create React App
+## tutorial
+text secuential, qna, face landmark task 실습
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
